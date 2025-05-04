@@ -1,0 +1,5 @@
+rasa==3.6.10  # or the specific version you're using
+tensorflow==2.11.0  # if you're using TensorFlow backend
+python-dotenv
+requests
+aiohttp
